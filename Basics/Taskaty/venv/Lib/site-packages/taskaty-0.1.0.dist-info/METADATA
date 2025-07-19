@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: taskaty
+Version: 0.1.0
+Summary: A simple command-line task app written in Python.
+Author: Zeina Hamouie
+Requires-Python: >=3.7
+Requires-Dist: tabulate
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
